@@ -1,0 +1,28 @@
+.target{
+    display: flex;
+    width: auto;
+    height: auto;
+    justify-content: space-evenly;
+}
+
+.button-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.line{
+    width: 200px;
+    height: 250px;
+    border: 1px solid black;
+    box-sizing: border-box;
+    padding: 10px;
+}
+.top > p{
+    font-size: 20px;
+    text-align: center;
+}
+
+.par > p{
+    text-align: justify;
+}
